@@ -1,3 +1,4 @@
+@section('profile')
 <li class="xn-profile">
 
                         <div class="profile">
@@ -18,3 +19,4 @@
                             </div>
                         </div>
 </li>
+@show

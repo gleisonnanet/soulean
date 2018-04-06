@@ -1,4 +1,4 @@
-@section('footer')
+@section('messagebox')
 
 <!-- MESSAGE BOX-->
 <div class="message-box animated fadeIn" data-sound="alert" id="mb-signout">

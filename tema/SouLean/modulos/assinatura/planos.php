@@ -34,7 +34,7 @@
           <p class="text-muted">Preço individual</p>
       </div>
       <div class="panel-footer">
-          <button class="btn btn-success btn-block">Choose Plan</button>
+          <button class="btn btn-success btn-block">Escolha o plano</button>
       </div>
   </div>
 
@@ -49,7 +49,7 @@
                                 <p class="text-muted">Preço individual</p>
                                 </div>
                                 <div class="panel-footer">
-                                    <button class="btn btn-danger btn-block">Choose Plan</button>
+                                    <button class="btn btn-danger btn-block">Escolha o plano</button>
                                 </div>
                             </div>
 
@@ -64,7 +64,7 @@
                                 <p class="text-muted">Preço individual</p>
                                 </div>
                                 <div class="panel-footer">
-                                    <button class="btn btn-warning btn-block">Choose Plan</button>
+                                    <button class="btn btn-warning btn-block">Escolha o plano</button>
                                 </div>
                             </div>
 

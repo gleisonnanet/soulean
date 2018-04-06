@@ -13,16 +13,16 @@
               <a href="/dashboard"><span class="glyphicon glyphicon-dashboard"></span> <span class="xn-text">Dashboard</span></a>
           </li>
           <li>
-              <a href="#"><span class="fa fa-bullhorn"></span> <span class="xn-text">Fórum</span></a>
+              <a href="/forum"><span class="fa fa-bullhorn"></span> <span class="xn-text">Fórum</span></a>
           </li>
           <li>
-              <a href="#"><span class="fa fa-user"></span> <span class="xn-text">Perfil</span></a>
+              <a href="/perfil"><span class="fa fa-user"></span> <span class="xn-text">Perfil</span></a>
           </li>
           <li>
-              <a href="#"><span class="fa fa-sign-in"></span> <span class="xn-text">Assinatura</span></a>
+              <a href="/assinatura"><span class="fa fa-sign-in"></span> <span class="xn-text">Assinatura</span></a>
           </li>
           <li>
-              <a href="#"><span class="fa fa-stethoscope"></span> <span class="xn-text">Suporte</span></a>
+              <a href="/suporte"><span class="fa fa-stethoscope"></span> <span class="xn-text">Suporte</span></a>
           </li>
           <li class="xn-icon-button pull-right">
             <a href="#" class="mb-control" data-box="#mb-signout">

@@ -6,7 +6,7 @@
     <!-- END PAGE SIDEBAR -->
 
     <!-- PAGE CONTENT -->
-<?php include_once("modulos/contentforum/foruns.php");?>
+<?php include_once("assinatura.php");?>
     <!-- END PAGE CONTENT -->
 </div>
 <!-- END PAGE CONTAINER -->
